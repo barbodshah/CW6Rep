@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    printf("This is an example Project in tempBranch");
+	printf("Going back to main branch");	
     return 0;
 }
 
